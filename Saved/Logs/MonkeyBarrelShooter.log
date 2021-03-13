@@ -803,3 +803,285 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.13-18.35.51:743][937]LogSlate: Window 'Multi-User Browser' being destroyed
 [2021.03.13-18.35.55:076][301]LogSlate: Window 'Project Settings' being destroyed
 [2021.03.13-18.35.55:080][301]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.13-18.37.56:261][ 91]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.13-18.37.56:297][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.03.13-18.37.56:406][ 91]LogSavePackage: Moving 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Saved/FirstPersonExampleMap2A000BC14CFDB8074F15ED9184C19C2F.tmp' to 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.13-18.37.57:819][ 91]LogSavePackage: Moving 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Saved/FirstPersonExampleMap_BuiltDataE415E3454678959128C80CA5C6796018.tmp' to 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.13-18.37.57:842][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-18.37.57:842][ 91]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.13-18.37.57:842][ 91]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: URL: C:\Users\Primary\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.13-18.39.46:200][747]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.13-18.39.46:201][747]LogWindows: Warning: URL: C:\Users\Primary\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.13-18.39.46:201][747]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.03.13-18.39.46:201][747]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.13-18.39.49:062][ 75]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2021.03.13-18.39.49:062][ 75]LogWindows: Warning: URL: D:/UnrealEngine/UE_4.26/Engine/Binaries/Win64/ version
+[2021.03.13-18.46.12:225][996]SourceControl: Source control is disabled
+[2021.03.13-18.46.12:240][996]LogSlate: Window 'Source Control Login' being destroyed
+[2021.03.13-18.46.12:540][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.13-18.46.15:001][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.13-18.46.15:027][248]LogSavePackage: Moving 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Saved/FirstPersonExampleMap6B1C80EA426FECF70A47828849914E73.tmp' to 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.13-18.46.15:652][248]LogSavePackage: Moving 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Saved/FirstPersonExampleMap_BuiltData8AF56CA64C035280FDDB3486A2F399D9.tmp' to 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.13-18.46.15:660][248]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-18.46.15:660][248]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.13-18.46.15:660][248]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.13-18.46.20:296][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2021.03.13-18.46.21:140][860]Cmd: DELETE
+[2021.03.13-18.46.21:145][860]Cmd: ACTOR DELETE
+[2021.03.13-18.46.21:380][860]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.21:415][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.13-18.46.21:416][860]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2021.03.13-18.46.22:011][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2021.03.13-18.46.22:109][934]Cmd: DELETE
+[2021.03.13-18.46.22:109][934]Cmd: ACTOR DELETE
+[2021.03.13-18.46.22:110][934]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.22:115][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.03.13-18.46.22:116][934]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.22:752][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2021.03.13-18.46.22:819][ 14]Cmd: DELETE
+[2021.03.13-18.46.22:819][ 14]Cmd: ACTOR DELETE
+[2021.03.13-18.46.22:821][ 14]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.22:826][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.13-18.46.22:827][ 14]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.23:923][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2021.03.13-18.46.23:941][145]Cmd: DELETE
+[2021.03.13-18.46.23:942][145]Cmd: ACTOR DELETE
+[2021.03.13-18.46.23:943][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.23:947][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.13-18.46.23:948][145]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.25:061][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2021.03.13-18.46.25:079][277]Cmd: DELETE
+[2021.03.13-18.46.25:079][277]Cmd: ACTOR DELETE
+[2021.03.13-18.46.25:080][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.25:085][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.13-18.46.25:086][277]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.26:079][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2021.03.13-18.46.26:099][393]Cmd: DELETE
+[2021.03.13-18.46.26:099][393]Cmd: ACTOR DELETE
+[2021.03.13-18.46.26:100][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.26:104][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.13-18.46.26:105][393]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2021.03.13-18.46.26:750][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2021.03.13-18.46.26:769][469]Cmd: DELETE
+[2021.03.13-18.46.26:769][469]Cmd: ACTOR DELETE
+[2021.03.13-18.46.26:770][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.26:775][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.13-18.46.26:776][469]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.27:455][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2021.03.13-18.46.27:498][550]Cmd: DELETE
+[2021.03.13-18.46.27:498][550]Cmd: ACTOR DELETE
+[2021.03.13-18.46.27:499][550]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.27:504][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.13-18.46.27:504][550]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.28:468][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2021.03.13-18.46.28:518][666]Cmd: DELETE
+[2021.03.13-18.46.28:518][666]Cmd: ACTOR DELETE
+[2021.03.13-18.46.28:519][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.28:524][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.13-18.46.28:525][666]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.29:640][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2021.03.13-18.46.29:894][825]Cmd: DELETE
+[2021.03.13-18.46.29:894][825]Cmd: ACTOR DELETE
+[2021.03.13-18.46.29:896][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.29:900][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.13-18.46.29:901][825]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.30:562][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2021.03.13-18.46.30:631][908]Cmd: DELETE
+[2021.03.13-18.46.30:631][908]Cmd: ACTOR DELETE
+[2021.03.13-18.46.30:633][908]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.30:637][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.13-18.46.30:637][908]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.31:151][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2021.03.13-18.46.31:194][970]Cmd: DELETE
+[2021.03.13-18.46.31:194][970]Cmd: ACTOR DELETE
+[2021.03.13-18.46.31:195][970]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.31:200][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.13-18.46.31:201][970]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.32:479][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2021.03.13-18.46.32:522][123]Cmd: DELETE
+[2021.03.13-18.46.32:522][123]Cmd: ACTOR DELETE
+[2021.03.13-18.46.32:524][123]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.32:529][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.13-18.46.32:530][123]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.33:490][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2021.03.13-18.46.33:563][242]Cmd: DELETE
+[2021.03.13-18.46.33:563][242]Cmd: ACTOR DELETE
+[2021.03.13-18.46.33:564][242]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.33:569][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.13-18.46.33:570][242]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.34:358][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2021.03.13-18.46.34:617][363]Cmd: DELETE
+[2021.03.13-18.46.34:617][363]Cmd: ACTOR DELETE
+[2021.03.13-18.46.34:618][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.34:623][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.13-18.46.34:624][363]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.35:303][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2021.03.13-18.46.35:404][452]Cmd: DELETE
+[2021.03.13-18.46.35:404][452]Cmd: ACTOR DELETE
+[2021.03.13-18.46.35:405][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.13-18.46.35:410][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.13-18.46.35:411][452]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.13-18.46.37:884][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.13-18.46.37:904][734]LogSavePackage: Moving 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Saved/FirstPersonExampleMap9E1EE6FB4F1AC97F496C9B810A909A05.tmp' to 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.13-18.46.38:539][734]LogSavePackage: Moving 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Saved/FirstPersonExampleMap_BuiltData9DB537FE4DA9300E46DBE082D3DA9CCF.tmp' to 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.13-18.46.38:547][734]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-18.46.38:547][734]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.13-18.46.38:547][734]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.13-18.46.42:164][152]MapCheck: New page: Map Check
+[2021.03.13-18.46.42:226][152]Cmd: MAP REBUILD ALLVISIBLE
+[2021.03.13-18.46.42:226][152]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.03.13-18.46.42:337][152]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.03.13-18.46.42:364][152]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.03.13-18.46.42:364][152]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.03.13-18.46.42:364][152]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.03.13-18.46.42:383][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.13-18.46.42:411][152]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.13-18.46.42:504][152]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.13-18.46.42:506][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.13-18.46.42:506][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.13-18.46.42:506][152]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.13-18.46.42:508][152]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.13-18.46.42:509][152]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.13-18.46.42:513][152]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.13-18.46.44:640][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.03.13-18.46.44:640][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.03.13-18.46.44:640][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.03.13-18.46.44:640][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.03.13-18.46.44:640][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.03.13-18.46.44:640][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.03.13-18.46.44:640][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.03.13-18.46.44:640][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.03.13-18.46.44:640][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.03.13-18.46.44:640][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.03.13-18.46.44:640][152]TextureStreamingBuild: Display: Compiling optional shaders took 2.240 seconds.
+[2021.03.13-18.46.44:725][152]LogLevel: Display: Export Material TexCoord Scales took 0.084 seconds.
+[2021.03.13-18.46.44:733][152]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.03.13-18.46.44:737][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.13-18.46.44:800][152]LightingResults: New page: Lighting Build - Mar 13, 2021, 2:46:44 AM
+[2021.03.13-18.46.45:002][152]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.13-18.46.45:252][152]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.13-18.46.45:265][152]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.13-18.46.45:799][152]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.13-18.46.45:799][152]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16220
+[2021.03.13-18.46.52:622][152]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.13-18.46.52:622][152]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.13-18.46.52:622][152]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.13-18.46.52:622][152]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.13-18.46.52:622][152]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.13-18.46.52:774][152]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.03.13-18.46.52:774][152]MapCheck: New page: FirstPersonExampleMap - Mar 13, 2021, 2:46:52 AM
+[2021.03.13-18.46.52:786][152]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 12.137ms to complete.
+[2021.03.13-18.46.52:799][152]LogEditorBuildUtils: Build time 0:10
+[2021.03.13-18.46.53:226][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.13-18.47.17:293][243]Job is a success!
+[2021.03.13-18.47.17:514][244]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.038s
+[2021.03.13-18.47.17:514][244]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.03.13-18.47.17:514][244]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2021.03.13-18.47.17:514][244]LogVolumetricLightmapImport:      Bricks at depth
+[2021.03.13-18.47.17:514][244]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2021.03.13-18.47.17:514][244]LogVolumetricLightmapImport:          1: 5.9% covering 6.3% of volume
+[2021.03.13-18.47.17:514][244]LogVolumetricLightmapImport:          2: 92.6% covering 1.5% of volume
+[2021.03.13-18.47.17:514][244]LogVolumetricLightmapImport:      Bricks in each level
+[2021.03.13-18.47.17:514][244]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 68 bricks 	 100.0% (Persistent Level)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2021.03.13-18.47.19:261][244]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2021.03.13-18.47.19:461][244]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2021.03.13-18.47.19:671][244]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2021.03.13-18.47.19:671][244]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2021.03.13-18.47.19:671][244]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2021.03.13-18.47.19:671][244]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2021.03.13-18.47.19:671][244]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2021.03.13-18.47.19:696][244]Lightmass on DESKTOP-DJ06E2C: 25.7 sec total, 159 ms importing, 18 ms setup, 3.63 sec photons, 21.9 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 2:33 min total, 1:09 min processing.
+[2021.03.13-18.47.19:696][244]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 6 meshes in 6 LightmapResourceClusters (1.0 Meshes per cluster).
+[2021.03.13-18.47.19:725][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.13-18.47.19:748][244]LogStaticLightingSystem: Illumination: 34.9 sec (1.51 sec encoding lightmaps, 408 ms encoding shadowmaps)
+[2021.03.13-18.47.19:748][244]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2021.03.13-18.47.19:748][244]LogStaticLightingSystem: Shadowmap texture memory: 6.7 MB (6.7 MB streaming, 0.0 MB non-streaming), 6 textures
+[2021.03.13-18.47.20:621][244]DumpUnbuiltLightIteractions
+[2021.03.13-18.47.20:621][244]Lights with unbuilt interactions: 0
+[2021.03.13-18.47.20:621][244]
+[2021.03.13-18.47.20:621][244]Primitives with unbuilt interactions: 0
+[2021.03.13-18.47.20:715][244]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.03.13-18.47.20:752][245]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.13-18.47.20:752][245]MapCheck: New page: FirstPersonExampleMap - Mar 13, 2021, 2:47:20 AM
+[2021.03.13-18.47.20:753][245]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.357ms to complete.
+[2021.03.13-18.48.34:653][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.13-18.48.34:719][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.13-18.48.34:724][ 80]PIE: New page: PIE session: FirstPersonExampleMap (Mar 13, 2021, 2:48:34 AM)
+[2021.03.13-18.48.34:736][ 80]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.13-18.48.34:745][ 80]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.13-18.48.34:746][ 80]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.13-18.48.34:786][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039647s)
+[2021.03.13-18.48.34:793][ 80]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.13-18.48.34:798][ 80]LogPlayLevel: PIE: World Init took: (0.011791s)
+[2021.03.13-18.48.34:799][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.052221s)
+[2021.03.13-18.48.34:804][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.13-18.48.34:808][ 80]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.13-18.48.34:808][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.13-18.48.34:808][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.13-18.48.34:808][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.13-18.48.34:808][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.13-18.48.34:809][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.13-18.48.34:809][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.13-18.48.34:809][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.13-18.48.34:809][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.13-18.48.34:809][ 80]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.13-18.48.34:809][ 80]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.13-18.48.34:813][ 80]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.13-18.48.34:813][ 80]LogAudioMixer: Display: 1: FrontRight
+[2021.03.13-18.48.34:822][ 80]LogAudioMixer: Display: Using Audio Device Headphones (2- Arctis 7 Game)
+[2021.03.13-18.48.34:822][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.13-18.48.34:823][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.13-18.48.34:823][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.13-18.48.34:823][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.13-18.48.34:823][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.13-18.48.34:823][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.13-18.48.34:824][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.13-18.48.34:824][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.13-18.48.34:824][ 80]LogInit: FAudioDevice initialized.
+[2021.03.13-18.48.34:824][ 80]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.03.13-18.48.34:867][ 80]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.13-18.48.34:972][ 80]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.13-10.48.34
+[2021.03.13-18.48.34:984][ 80]LogWorld: Bringing up level for play took: 0.026471
+[2021.03.13-18.48.34:985][ 80]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.03.13-18.48.35:187][ 80]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.03.13-18.48.35:211][ 80]PIE: Server logged in
+[2021.03.13-18.48.35:213][ 80]PIE: Play in editor total start time 0.545 seconds.
+[2021.03.13-18.48.47:458][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.13-18.48.47:458][494]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.13-18.48.47:459][494]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-18.48.47:459][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-18.48.47:470][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.13-18.48.47:479][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-18.48.47:484][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-18.48.47:484][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.13-18.48.47:485][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.13-18.48.47:502][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.13-18.48.47:504][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.13-18.48.47:532][495]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.03.13-18.48.49:820][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.13-18.48.49:839][754]LogSavePackage: Moving 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Saved/FirstPersonExampleMap17AA71E0473F1446A0387EAD3F056E22.tmp' to 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.13-18.48.50:353][754]LogSavePackage: Moving 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Saved/FirstPersonExampleMap_BuiltData78BE988E4B8D2A1CACAD03B8DADB110D.tmp' to 'C:/Users/Primary/Documents/Unreal Projects/MonkeyBarrelShooter/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.13-18.48.50:362][754]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-18.48.50:362][754]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.13-18.48.50:362][754]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
